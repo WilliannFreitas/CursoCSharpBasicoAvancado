@@ -12,8 +12,7 @@ namespace CursoCSharp.ClassesEMetodos
         public string Apresentar() 
         {
             return string.Format
-                ($"Olá! Me chamo {Nome} e tenho {Idade}");
-                
+                ($"Olá! Me chamo {Nome} e tenho {Idade}");                
         }
         public void ApresentarNoConsole()
         {
