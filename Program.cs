@@ -9,6 +9,7 @@ using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Execoes;
 using CursoCSharp.API;
+using CursoCSharp.TopicosAvancados;
 
 
 
@@ -103,6 +104,13 @@ namespace CursoCSharp
                 {"Exemplo Path - API", ExemploPath.Executar},
                 {"Exemplo Date Time - API", ExemploDateTime.Executar},
                 {"Exemplo Time Span - API", ExemploTimeSpan.Executar},
+
+                //Tópicos Avançados
+                {"LINQ #1 - API", LINQ1.Executar},
+                {"LINQ #2 - API", LINQ2.Executar},
+                {"Nullables - Tópicos Avançados", Nullables.Executar},
+                {"Dynamics - Tópicos Avançados", Dynamics.Executar},
+                {"Generics - Tópicos Avançados", Generics.Executar},
 
 
 
