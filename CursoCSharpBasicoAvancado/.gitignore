@@ -1,0 +1,7 @@
+
+.vs/*
+bin/*
+obj/*
+bin/Debug/*
+/Encapsulamento/bin/Debug/netcoreapp3.1
+/Encapsulamento/obj
